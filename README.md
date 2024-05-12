@@ -1,13 +1,5 @@
 <h1 align="center">Hi 👋, I'm Altos</h1>
-<h3 align="center">A passionate frontend developer from the Philippines</h3>
-
-- 🔭 I’m currently working on **ReadKami Project**
-
-- 🌱 I’m currently learning **different programming languages**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Altos22](https://github.com/Altos22)
-
-- 📫 How to reach me **altosunit32@gmail.com**
+<h3 align="center">A Curious Cat</h3>
 
 - ⚡ Fun fact **I don't like programming**
 
